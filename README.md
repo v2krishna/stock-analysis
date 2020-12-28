@@ -8,14 +8,15 @@ Perform Stock analysis for 12 companies containing the data for 2017 and 2018. S
 ### Purpose
 Stock Performance of each ticker symbol for selected year. At the same time refactor the initial VBA Script which was taking more time somewhere between 40 to 50 seconds per year. Refactoring is needed so it helps to run stock analysis for many years as new data comes in.
 
-## Stock Performance and Measuring the Refacored VB Macro
+## Stock Performance and Measuring the Refacored VBA Script
 <b> Below are some of the challenges had gone through: </b> <br/>
 For calculating the stock performance of the prices or returns, we need to first get all the stocks symbols , sort the data by ticker symbol, date in ascending order and loop the data for each ticker symbol then calculate the starting price and ending prices of the ticker within a year along with total volumes.
 
 ### Stock Performance
 <b> 2017 Stock Analysis</b> <br/>
-![2017_StockPerformance](/resources/2017_StockPerformance.png) <br/$
-In 2017 except TERP company all other companies have performed well with DQ being the highest returns of 199.4% followed by SEDG with returns of 184%
+![2017_StockPerformance](/resources/2017_StockPerformance.png) <br/>
+In 2017 except TERP company all other companies have performed well with DQ being the highest returns of 199.4% followed by SEDG with returns of 184%. <br/>
+
 <b> 2018 Stock Analysis</b> <br/>
 ![2018_StockPerformance](/resources/2018_StockPerformance.png)<br/>
 In 2018, only couple of stocks performed, rest all tanked. In 2017 though DQ has performed extraordinarily with 199% returns, but in 2018, it was down by 62%, based on this comparision, would like to rethink on investing in DQ this year. By comparing the returns of 2017 and 2018, ENPH and RUN are the two stocks which has given consistent returns, will consider these two stocks while investing.
