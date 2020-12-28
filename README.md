@@ -13,7 +13,7 @@ Stock Performance of each ticker symbol for selected year. At the same time refa
 For calculating the stock performance of the prices or returns, we need to first get all the stocks symbols , sort the data by symbol and date in ascending order and loop the data for each ticker symbol, calculate the starting price and ending prices of the ticker within a year.
 
 ### Stock Performance
-![2017_StockPerformance](/resources/2017_StockPerformance.png =250x250 ) ![2018_StockPerformance](/resources/2018_StockPerformance.png =250x250)<br/>
+![2017_StockPerformance](/resources/2017_StockPerformance.png) ![2018_StockPerformance](/resources/2018_StockPerformance.png)<br/>
 The above stock performances are for 2017 and 2018 respectively. In 2017 though DQ has performed extraordinarily with 199% returns, but in 2018, it was down by 62%, based on this returns, would like to rethink on investing in DQ. By comparing the returns of 2017 and 2018 , ENPH and RUN are the two stocks which is giving is consistent returns, will look into those stocks for investing.
 
 ### Refactor Measurements
