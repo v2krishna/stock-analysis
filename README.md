@@ -14,12 +14,12 @@ For calculating the stock performance of the prices or returns, we need to first
 
 ### Stock Performance
 <b> 2017 Stock Analysis</b> <br/>
-![2017_StockPerformance](/resources/2017_StockPerformance.png) <br/>
+     ![2017_StockPerformance](/resources/2017_StockPerformance.png) <br/>
 In 2017 except TERP company all other companies have performed well with DQ being the highest returns of 199.4% followed by SEDG with returns of 184%. <br/>
 
 <b> 2018 Stock Analysis</b> <br/>
 ![2018_StockPerformance](/resources/2018_StockPerformance.png)<br/>
-In 2018, only couple of stocks performed, rest all tanked. In 2017 though DQ has performed extraordinarily with 199% returns, but in 2018, it was down by 62%, based on this comparision, would like to rethink on investing in DQ this year. By comparing the returns of 2017 and 2018, ENPH and RUN are the two stocks which has given consistent returns, will consider these two stocks while investing.
+In 2018, only couple of stocks performed well, rest all tanked. In 2017 though DQ has performed extraordinarily with 199% returns, but in 2018, it was down by 62%, based on this comparision, would like to rethink on investing in DQ this year. By comparing the returns of 2017 and 2018, ENPH and RUN are the two stocks which has given consistent returns, will recommend these two stocks while investing.
 
 ### Refactor Measurements
 ![2017_BeforeRefactoring](/resources/2017_BeforeRefactoring.png)  ![VBA_Challenge_2017](/resources/VBA_Challenge_2017.png) </br>
