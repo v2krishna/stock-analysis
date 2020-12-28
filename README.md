@@ -32,8 +32,8 @@ In 2018, only couple of stocks performed well, rest all tanked. In 2017 though D
      Similarly the same has been observed for 2018, before refactoring the code, its taking around 41 seconds to complete the process, where as after refactoring the code, 
      its less than 0.4secs, below are the screenshots of execution times for 2018 before and after refactoring the VBA Scripts. <br/>
 
-Also made sure that the data is same before and after the refactoring the code.
-![2017_StockPerformance](/resources/2018_StockPerformance.png) ![2018_StockPerformance](/resources/2018_StockPerformance.png) <br/>
+     Results after refactoring are also same as the initial VBA Script.
+     ![2017_StockPerformance](/resources/2018_StockPerformance.png) ![2018_StockPerformance](/resources/2018_StockPerformance.png) <br/>
 
 ## Results
 - <b>Advantages and Disadvantages of Refactoring</b> <br/>
