@@ -9,7 +9,7 @@ Perform Stock analysis for 12 companies containing the data for 2017 and 2018. S
 Stock Performance of each ticker symbol for selected year. At the same time refactor the initial VB Script which was taking more time somewhere between 40 to 50 seconds for one year, so it takes less time to execute without compromising on the data accuracy.
 
 
-## Stock Performance and Measuring the Refacored VBA
+## Stock Performance and Measuring the Refacored VB Macro
 For calculating the stock performance of the prices or returns, we need to first get all the stocks symbols , sort the data by symbol and date in ascending order and loop the data for each ticker symbol, calculate the starting price and ending prices of the ticker within a year.
 
 ### Stock Performance
@@ -22,3 +22,32 @@ Based on the above results, the image on the left is taken when stock analysis i
 ![2018_BeforeRefactoring](/resources/2018_BeforeRefactoring.png)  ![VBA_Challenge_2018](/resources/VBA_Challenge_2018.png) <br/>. 
 Also made sure that the data is same before and after the refactoring the code.
 ![2017_StockPerformance](/resources/2018_StockPerformance.png) ![2018_StockPerformance](/resources/2018_StockPerformance.png) <br/>
+
+## Results
+- <b>Advantages and Disadvantages of Refactoring</b> <br/>
+   * Advantages: <br/>
+      * Less time in executing the application or getting the results back in less time.
+      * Removing the redundant code helps the code to look cleaner and lean
+      * Commenting along with refactoring will help other developers to understand why this has done in certain way.
+      * Can be scaled to many users when rafactoring the enterprise applications.
+    * Disadvantages: <br/>
+      * Refactoring takes more time to improvize the performance of the application than it initially took to build/develop.
+      * When developing the projects with tight deadlines, might not happen as expected.
+      * Testing cycle has to be performed once again, once the refactoring is done.
+- <b>Pros and Cons apply to refactoring the original VBA Script</b> <br/>   
+    * Pros: <br/>
+      * Took less than 0.2 seconds to perform the stock analysis for the year selected.
+      * Was able to loop through entire data one time, instead of 12 times.
+      * Because the time to perform the stock analysis was , able to run for multiple sceanrios without loosing the focus.
+      
+    * Cons:  <br/>
+      * It took more time to refactor the code than it initially took to build the application.
+      * Compare the results after refactoring the code with the original.
+      * Make sure the code without any issues as it was doing before.
+      
+      
+      
+  
+
+
+
